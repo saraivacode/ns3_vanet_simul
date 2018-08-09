@@ -20,7 +20,7 @@
  * Author: Junling Bu <linlinjavaer@gmail.com>
  *
  */
-/**
+/**sudo cp src/wave/examples/testes2.cc scratch/; sudo ./waf; time sudo ./waf --run "scratch/testes2"
  * Script de Vanets, utilizando:
  * 802.11p
  * trace de mobilidade de utras com 99 veículos
